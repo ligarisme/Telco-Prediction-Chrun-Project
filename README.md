@@ -1,10 +1,10 @@
-TELCO CUSTOMER CHURN PREDICTION
+# TELCO CUSTOMER CHURN PREDICTION
 
-Overview :
+### Overview :
 
-Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs.
+### Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs.
 
-Content:
+### Content:
 
 Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
 
