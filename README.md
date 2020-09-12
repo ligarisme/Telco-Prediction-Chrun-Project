@@ -1,6 +1,6 @@
 # TELCO CUSTOMER CHURN PREDICTION
 
-## Final Project Job Connector Data Science Jakarta Purwadhika, Ragil Tri Junizar
+## Ragil Tri Junizar Final Project Job Connector Data Science Jakarta Purwadhika
 
 Dataset taken from kaggle : https://www.kaggle.com/blastchar/telco-customer-churn
 
